@@ -47,7 +47,9 @@ public class User {
      *
      * @mbggenerated
      */
-   
+    public User(){
+	   super();
+    }
     public User(String id, String loginUser, String password, String email, String tel) {
         this.id = id;
         this.loginUser = loginUser;

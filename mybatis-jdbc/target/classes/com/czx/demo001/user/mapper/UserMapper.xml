@@ -84,7 +84,7 @@
     </set>
     where id = #{id,jdbcType=VARCHAR}
   </update>
-  	<select id="getUser" resultMap="BaseResultMap" parameterType="java.lang.String">
+  	<select id="getUser" resultType="User" parameterType="java.lang.String">
 		select * from user where id=#{id}
 	</select>
 </mapper>
