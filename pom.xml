@@ -8,5 +8,6 @@
   <modules>
   	<module>mybatis-generator</module>
   	<module>mybatis-jdbc</module>
+  	<module>shiroDemo</module>
   </modules>
 </project>

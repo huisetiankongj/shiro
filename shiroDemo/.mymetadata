@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="mybatis-jdbc"
-  id="myeclipse.1465803756140"
-  context-root="/mybatis-jdbc"
+  name="shiroDemo"
+  id="myeclipse.1465909326702"
+  context-root="/shiroDemo"
   j2ee-spec="6.0"
-  archive="mybatis-jdbc.war">
+  archive="shiroDemo.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
   </attributes>
